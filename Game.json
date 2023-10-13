@@ -1,0 +1,48 @@
+{
+    "name": "John Doe",
+    "class": "Goblin",
+    "level": 99,
+    "stats": {
+        "strength": 100,
+        "dexterity": 50,
+        "intelligence": 69,
+        "agility": 80,
+        "charisma": 100
+    },
+
+    "equipment": {
+        "weapon": "Sword of the Undead",
+        "armor": "Plate Mail of the Dragon",
+        "accessories": [
+            "Ring of Power",
+            "Amulet of the Gods"
+        ]
+    },
+    
+    "inventory": [
+        {
+            "name": "Health Potion",
+            "quantity": 5
+        },
+
+        {
+            "name": "Mana Potion",
+            "quantity": 3
+        },
+
+        {
+            "name": "Gold",
+            "quantity": 1000
+        },
+
+        {
+            "name": "Diamond",
+            "quantity": 4
+        },
+
+        {
+            "name": "Pølsehorn",
+            "quantity": 9999
+        }
+    ]
+}
